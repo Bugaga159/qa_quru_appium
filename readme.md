@@ -1,6 +1,6 @@
 # Запуск Appium mobile tests
 
->## Запуск в browserstack
+## Запуск в browserstack
 >###1) Создать файл с настройками: 
 > ```src/test/resources/config/browserstack.properties```
 >
